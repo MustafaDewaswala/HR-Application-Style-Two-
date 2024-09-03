@@ -1,0 +1,77 @@
+.error
+{
+color:red;
+}
+.main-container
+{
+width:90hw;
+height:auto;
+border:2px solid black;
+}
+.header
+{
+margin:5px;
+width:90hw;
+height:10vh;
+border:1px solid black;
+}
+.logo
+{
+margin-top:8px;
+margin-bottom:12px;
+float:left;
+}
+.brand-name
+{
+margin-top:8px;
+margin-bottom:12px;
+font-size:30pt;
+float:left;
+}
+.content
+{
+width:90hw;
+height:70vh;
+margin:5px;
+border:2px solid white;
+}
+.content-left-panel
+{
+height:65vh;
+margin:5px;
+float:left;
+padding:5px;
+border:1px solid black;
+}
+.content-right-panel
+{
+height:65vh;
+padding:5px;
+margin-left:105px;
+margin-right:5px;
+margin:bottom:px;
+margin-top:5px;
+border:1px solid black;
+}
+.loginForm
+{
+border: 2px solid black;
+margin:0 auto;
+width: 20%;
+padding: 20px;
+}
+.username
+{
+float:right;
+margin-right:25px;
+margin-top:15px;
+}
+.footer
+{
+width:90hw;
+height:auto;
+margin:5px;
+text-align:center;
+font-size:20pt;
+border:1px solid white;
+}
